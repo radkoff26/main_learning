@@ -1,0 +1,9 @@
+com/example/speechlearning/BuildConfig.java
+ com.example.speechlearning.BuildConfig
+com/example/speechlearning/MainActivity.java
+ com.example.speechlearning.MainActivity
+ com.example.speechlearning.MainActivity$1
+ com.example.speechlearning.MainActivity$2
+ com.example.speechlearning.MainActivity$3
+com/example/speechlearning/WordToSpeech.java
+ com.example.speechlearning.WordToSpeech
